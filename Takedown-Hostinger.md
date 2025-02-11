@@ -1,4 +1,4 @@
-Passo a passo para solicitar um takedown na Hostinger
+# Passo a passo para solicitar um takedown na Hostinger
 A Hostinger possui um canal dedicado para denúncias de abuso. Siga os passos abaixo para relatar uma URL maliciosa:
 
 1. Acesse a página de reporte de abuso
